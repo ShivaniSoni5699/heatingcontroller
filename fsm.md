@@ -1,4 +1,4 @@
-# Heating Controller — Finite State Machine
+# Heating Controller - Finite State Machine
 
 ## States
 
